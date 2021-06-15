@@ -1,6 +1,6 @@
 import React from "react";
 
-import
+import logo from 'avswLogo.png'
 
 const Enter = ()=>{
 
